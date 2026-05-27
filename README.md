@@ -1,6 +1,6 @@
 # LuxaTeams
 
-Syncs your Microsoft Teams presence to a Luxafor light. Red when you're in a call or busy, yellow when away, green when available. Runs in the system tray and can start with Windows.
+Syncs your Microsoft Teams presence to a Luxafor light. Red when you're in a call or busy, yellow when away, green when available. Runs in the system tray and can start with Windows. **NO MICROSOFT SIGN-IN!**
 
 ## How it works
 

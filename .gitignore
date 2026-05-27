@@ -76,6 +76,7 @@ _ReSharper*/
 
 # Publish / deployment
 publish/
+dist/
 *.[Pp]ublish.xml
 *.azurePubxml
 *.pubxml
