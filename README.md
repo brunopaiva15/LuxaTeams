@@ -48,7 +48,7 @@ Closing the window minimizes to the tray. Double-click the tray icon to reopen i
 ```
 git clone https://github.com/brunopaiva15/LuxaTeams.git
 cd LuxaTeams
-dotnet build -c Release
+dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -o dist
 ```
 
 Or open the solution in Visual Studio and build in Release.
